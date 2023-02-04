@@ -47,7 +47,7 @@ Which of the following is true?
 
 ## Based on the below HTTP request, which of the following statements is correct?
 <p align="center">
-<img src="./5.png" ></p>
+<img src="/media/mickey/New Volume3/Github/Certified AppSec Practitioner (CAP)/png/5.png" ></p>
 
 - [x] The change password feature does not validate the user
 - [ ] The change password feature uses basic authorization
