@@ -1,6 +1,7 @@
 # CAPCertified AppSec Practitioner (CAP)
 
 A website administrator forgot to renew the TLS certificate on time and as a result, the application is displaying a TLS error message. However, on closer inspection, it appears that the error is due to the TLS certificate expiry. <br>
+
  Which of the following is correct?
  --------------------------------------------
 
@@ -24,6 +25,7 @@ A user enters their email address and receives a message: <br>
 The user receives an email saying: <br>
 Please use the link below to create a new password: <br>
 http://example.com/reset_password?userid=5298 <br>
+
 Which of the following is true?
 ------------------------------------------
 
@@ -54,8 +56,11 @@ Which of the following is true?
 
 <br>
 
-## A website administrator forgot to renew the TLS certificate on time and as a result, the application is now displaying a TLS error message, as shown below. However, on closer inspection, it appears that the error is due to the TLS certificate expiry.
-In the scenario described above, which of the following is correct?
+A website administrator forgot to renew the TLS certificate on time and as a result, the application is now displaying a TLS error message, as shown below. However, on closer inspection, it appears that the error is due to the TLS certificate expiry.
+In the scenario described above,
+<br> 
+which of the following is correct?
+------------------------------------------
 
 - [ ] There is no urgency to renew the certificate as the communication is still over TLS
 - [x] There is an urgency to renew the certificate as the users of the website may get conditioned to ignore TLS warnings and therefore ignore a legitimate warning which could be a real Man-in-the-Middle attack
