@@ -59,6 +59,7 @@ Which of the following is true?
 A website administrator forgot to renew the TLS certificate on time and as a result, the application is now displaying a TLS error message, as shown below. However, on closer inspection, it appears that the error is due to the TLS certificate expiry.
 In the scenario described above,
 <br> 
+
 which of the following is correct?
 ------------------------------------------
 
