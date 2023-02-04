@@ -14,3 +14,17 @@
 - [x] RSA
 
 
+An application's forgot password functionality is described below: <br>
+A user enters their email address and receives a message: <br>
+"If the email exists, we will email you a link to reset the password" <br>
+The user receives an email saying: <br>
+Please use the link below to create a new password: <br>
+http://example.com/reset_password?userid=5298 <br>
+Which of the following is true?
+--
+
+- [ ] The reset link uses an insecure channel
+- [x] The application is vulnerable to username enumeration
+- [ ] The application will allow the user to reset an arbitrary user's password
+- [ ] Both A and C
+
