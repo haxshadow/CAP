@@ -1,6 +1,6 @@
 # CAPCertified AppSec Practitioner (CAP)
 
-A website administrator forgot to renew the TLS certificate on time and as a result, the application is displaying a TLS error message. However, on closer inspection, it appears that the error is due to the TLS certificate expiry.
+A website administrator forgot to renew the TLS certificate on time and as a result, the application is displaying a TLS error message. However, on closer inspection, it appears that the error is due to the TLS certificate expiry. <br>
  Which of the following is correct?
  --------------------------------------------
 
