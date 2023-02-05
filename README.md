@@ -393,3 +393,59 @@ Will this mechanism prevent an attacker from resetting arbitrary users' password
 - [x] False
 
 <br>
+
+## The following request is vulnerable to Cross-Site Request Forgery vulnerability.
+
+<p align="center">
+<img src="./36.png" >
+</p>
+
+- [x] True
+- [ ] False
+
+<br>
+
+## In the screenshot below, which of the following is incorrect:
+
+<p align="center">
+<img src="./37.png" >
+</p>
+
+- [x] The application discloses the framework name and version
+- [ ] The application reveals user-agent details
+- [ ] A cookie is set with HttpOnly and a Secure Flag
+- [ ] The application accepts insecure protocol
+
+<br>
+
+## Which of the following is correct?
+
+- [ ] The browser contains the private key of all known Certifying Authorities (CA) and based on that, it differentiates between a valid and an invalid TLS Certificate
+- [x] The browser contains the public key of all known Certifying Authorities (CA) and based on that it is able to differentiate between a valid and an invalid TLS Certificate
+- [ ] The browser contains both the public and private key of all known Certifying Authorities (CA) and based on that it is able to differentiate between a valid and an invalid TLS Certificate
+- [ ] The browser does not have any mechanism to validate the TLS Certificate
+
+<br>
+
+Under the same-origin policy (also SOP), a web browser permits scripts contained in a web page to access data in another web page, but only if both web pages have the same origin. <br>
+Which of the following pages are in the same origin as that of the below URL? <br>
+http://www.example.com/dir/page2.html <br>
+
+1. http://www.example.com/dir2/other.html
+2. http://www.example.com:81/dir/other.html 
+3. https://www.example.com/dir/other.html
+4. http://en.example.com/dir/other.html
+-----------------------------------------------------------------
+- [ ] 1 Only
+- [ ] 1 and 2
+- [ ] 1,3 and 4
+- [x] None of the above
+
+<br>
+
+## Which of the following is considered as a safe password?
+
+- [ ] Monday@123
+- [ ] abcdef
+- [x] SolQh$182%&ak
+- [ ] 1234567890
