@@ -202,6 +202,7 @@ which of the following is correct?
 
 <br>
 
+
 After purchasing an item on an e-commerce website, a user can view their order details by visiting the URL:
 https://example.com/?order_id=53870
 A security researcher pointed out that by manipulating the order_id value in the URL, a user can view arbitrary orders and sensitive information associated with that order_id. There are two fixes: <br>
